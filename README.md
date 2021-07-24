@@ -2,8 +2,8 @@
 Link to the website deployed on Heroku - https://serene-island-51321.herokuapp.com/
 
 In this project we worked on :<br />
-  Frontend - HTML,CSS(Bootstrap).<br />
-  Backend - NodeJS, MongoDB Atlas.
+  - Frontend - HTML,CSS(Bootstrap).<br />
+  - Backend - NodeJS, MongoDB Atlas.
 
 1) 1st page is the login authenticator page where you have to enter the correct username and password combination to access the second page.<br />
    - Any one of the three usernames and passwords combinations can be used:-<br />
