@@ -10,7 +10,7 @@ app.use(bodyParser.urlencoded({extended:true}));
 app.use(express.static("public"));
 const fs = require('fs');
 const mongoose=require("mongoose");
-mongoose.connect("mongodb+srv://satyam:random123@cluster0.wiwow.mongodb.net/dusagefinal?retryWrites=true&w=majority", {useNewUrlParser: true, useUnifiedTopology: true});
+mongoose.connect("mongodb+srv://<username>:<password>@cluster0.wiwow.mongodb.net/dusagefinal?retryWrites=true&w=majority", {useNewUrlParser: true, useUnifiedTopology: true});
 const gooose=new mongoose.Schema({
     websiteurl : String,
     datarel     : String
