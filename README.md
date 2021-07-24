@@ -1,7 +1,7 @@
 # Web-Scrapping-Project
 Link to the website deployed on Heroku - https://serene-island-51321.herokuapp.com/
 
-In this project we worked on :
+In this project we worked on :<br />
   Frontend - HTML,CSS(Bootstrap).<br />
   Backend - NodeJS, MongoDB Atlas.
 
