@@ -7,9 +7,9 @@ In this project we worked on :
 
 1) 1st page is the login authenticator page where you have to enter the correct username and password combination to access the second page.<br />
    - Any one of the three usernames and passwords combinations can be used:-<br />
-        - a)Username - Satyam , Password - random123<br />
-        - b)Username - Friend1 , Password - qwerty123<br />
-        - c)Username - Friend2 , Password - asdfg123<br />
+        - Username - Satyam , Password - random123<br />
+        - Username - Friend1 , Password - qwerty123<br />
+        - Username - Friend2 , Password - asdfg123<br />
 2) The 2nd page contains the prompt to enter the URL of the website of which data/text the suer wants to scrape. Enter a valid URL on this prompt.<br />
 3) The 3rd page contains the data of the URL entered by the URL in plain text form.<br />
 
