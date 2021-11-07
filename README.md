@@ -10,7 +10,7 @@ In this project we worked on :<br />
         - Username - Satyam , Password - random123<br />
         - Username - Friend1 , Password - qwerty123<br />
         - Username - Friend2 , Password - asdfg123<br />
-2) The 2nd page contains the prompt to enter the URL of the website of which data/text the suer wants to scrape. Enter a valid URL on this prompt.<br />
+2) The 2nd page contains the prompt to enter the URL of the website of which data/text the user wants to scrape. Enter a valid URL on this prompt.<br />
 3) The 3rd page contains the data of the URL entered by the URL in plain text form.<br />
 
 The URL entered by the user and plain text inside the site are stored in the MongoDB database via MongoDB Atlas.
